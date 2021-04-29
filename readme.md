@@ -1,0 +1,1 @@
+https://www.kaggle.com/agsam23/german-credit?select=german_credit_data.csv
